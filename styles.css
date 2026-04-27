@@ -1,0 +1,22 @@
+
+.box{
+    padding: 20px;
+    margin: auto;
+    margin-top: 200px;
+    width: 50vw;
+    background-color: #000;
+    color: #eee;
+    box-shadow: 5px 5px 15px #fff;
+}
+
+body{
+    background-color: #111;
+}
+
+h2{
+    margin-top: 0px;
+    font-size: 15px;
+}
+h1{
+    margin-bottom: 0;
+}
